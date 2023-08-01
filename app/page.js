@@ -72,25 +72,25 @@ export default function Home() {
         </div> */}
         <div className="carousel carousel-end rounded-box bg-gradient-to-r from-rose-100 to-teal-100">
   <div className="carousel-item bg-gradient-to-r from-rose-100 to-teal-100 ">
-    <img src="/netflix.png" alt="Drink" />
+    <Image src="/netflix.png" alt="Drink" />
   </div> 
   <div className="carousel-item">
-    <img src="/download.png" alt="Drink" />
+    <Image src="/download.png" alt="Drink" />
   </div> 
   <div className="carousel-item">
-    <img src="/images.jpg" alt="Drink" />
+    <Image src="/images.jpg" alt="Drink" />
   </div> 
   <div className="carousel-item">
-    <img src="/IBM.png" alt="Drink" />
+    <Image src="/IBM.png" alt="Drink" />
   </div> 
   <div className="carousel-item">
-    <img src="/face.jpg" alt="Drink" />
+    <Image src="/face.jpg" alt="Drink" />
   </div> 
   <div className="carousel-item">
-    <img src="/bmw.jpg" alt="Drink" />
+    <Image src="/bmw.jpg" alt="Drink" />
   </div> 
   <div className="carousel-item">
-    <img src="/yahoo.png" alt="Drink" />
+    <Image src="/yahoo.png" alt="Drink" />
   </div>
 </div>
       </div>
@@ -99,24 +99,24 @@ export default function Home() {
 
     </section>
 
-    <section class="text-gray-600 body-font bg-gradient-to-r from-rose-100 to-teal-100 ">
-  <div class="container px-5 py-2 mx-auto">
-    <div class="flex flex-wrap -m-4 text-center">
-      <div class="p-4 sm:w-1/4 w-1/2">
-        <h2 class="title-font font-medium sm:text-4xl text-3xl text-gray-900">2.7K</h2>
-        <p class="leading-relaxed">Users</p>
+    <section className="text-gray-600 body-font bg-gradient-to-r from-rose-100 to-teal-100 ">
+  <div className="container px-5 py-2 mx-auto">
+    <div className="flex flex-wrap -m-4 text-center">
+      <div className="p-4 sm:w-1/4 w-1/2">
+        <h2 className="title-font font-medium sm:text-4xl text-3xl text-gray-900">2.7K</h2>
+        <p className="leading-relaxed">Users</p>
       </div>
-      <div class="p-4 sm:w-1/4 w-1/2">
-        <h2 class="title-font font-medium sm:text-4xl text-3xl text-gray-900">1.8K</h2>
-        <p class="leading-relaxed">Recruiters</p>
+      <div className="p-4 sm:w-1/4 w-1/2">
+        <h2 className="title-font font-medium sm:text-4xl text-3xl text-gray-900">1.8K</h2>
+        <p className="leading-relaxed">Recruiters</p>
       </div>
-      <div class="p-4 sm:w-1/4 w-1/2">
-        <h2 class="title-font font-medium sm:text-4xl text-3xl text-gray-900">2048+ </h2>
-        <p class="leading-relaxed">offers</p>
+      <div className="p-4 sm:w-1/4 w-1/2">
+        <h2 className="title-font font-medium sm:text-4xl text-3xl text-gray-900">2048+ </h2>
+        <p className="leading-relaxed">offers</p>
       </div>
-      <div class="p-4 sm:w-1/4 w-1/2">
-        <h2 class="title-font font-medium sm:text-4xl text-3xl text-gray-900">1000+ </h2>
-        <p class="leading-relaxed">companies</p>
+      <div className="p-4 sm:w-1/4 w-1/2">
+        <h2 className="title-font font-medium sm:text-4xl text-3xl text-gray-900">1000+ </h2>
+        <p className="leading-relaxed">companies</p>
       </div>
     </div>
   </div>
