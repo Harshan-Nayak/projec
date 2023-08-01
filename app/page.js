@@ -173,7 +173,7 @@ export default function Home() {
                 src="/t1.jpg" width={50} height={50}
               />
               <p className="leading-relaxed">
-              "My time as a Senior Product Designer at HireTalent Company has been nothing short of exceptional. The company's commitment to delivering cutting-edge products and user-centric designs has been truly inspiring. Working with a talented and passionate team has allowed me to push my creative boundaries .
+              My time as a Senior Product Designer at HireTalent Company has been nothing short of exceptional. The companys commitment to delivering cutting-edge products and user-centric designs has been truly inspiring. Working with a talented and passionate team has allowed me to push my creative boundaries .
               </p>
               <span className="inline-block w-10 h-1 mt-6 mb-4 bg-indigo-500 rounded"></span>
               <h2 className="text-sm font-medium tracking-wider text-gray-900 title-font">HOLDEN CAULFIELD</h2>
@@ -188,7 +188,7 @@ export default function Home() {
                 src="/t2.jpg" width={50} height={50}
               />
               <p className="leading-relaxed">
-              "I had an incredible experience working as a UI Developer at HireTalent Company. The team's passion for excellence and innovative ideas truly inspired me. The collaborative environment allowed me to grow both personally and professionally. 
+              I had an incredible experience working a UI Developer at HireTalent Company. The teams passion for excellence and innovative ideas truly inspired me. The collaborative environment allowed me to grow both personally and professionally. 
               </p>
               <span className="inline-block w-10 h-1 mt-6 mb-4 bg-indigo-500 rounded"></span>
               <h2 className="text-sm font-medium tracking-wider text-gray-900 title-font">ALPER KAMU</h2>
@@ -203,7 +203,7 @@ export default function Home() {
                 src="/t3.jpg" width={50} height={50}
               />
               <p className="leading-relaxed">
-              "As the Chief Technology Officer at HireTalent Company, I have been privileged to lead a team of talented and dedicated professionals. From day one, I was impressed by the company's vision and commitment to leveraging technology to drive innovation and transformation. 
+              As the Chief Technology Officer at HireTalent Company, I have been privileged to lead a team of talented and dedicated professionals. From day one, I was impressed by the companys vision and commitment to leveraging technology to drive innovation and transformation. 
               </p>
               <span className="inline-block w-10 h-1 mt-6 mb-4 bg-indigo-500 rounded"></span>
               <h2 className="text-sm font-medium tracking-wider text-gray-900 title-font">HENRY LETHAM</h2>
