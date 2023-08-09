@@ -14,7 +14,7 @@ export default function Home() {
            Hirin<span className='text-green-700 ' >g</span>
           </h1>
           <p className="mb-8 leading-relaxed">
-           Wanna Hire ? , Find Your Interns at Various fields like <span className='text-white bg-black ' >  Product Managers</span>, Data Engineer,<span className= 'text-black bg-green-500 ' >Big data analyst</span>  etc.🫡
+           Wanna Hire ? , Find Your Interns at Various fields like <span className='text-white bg-green-400' >  Product Managers</span>, Data Engineer,<span className= 'text-black bg-green-500 ' >Big data analyst</span>  etc.🫡
           </p>
           <div className="flex justify-center">
             <Link href="/" className="inline-flex px-6 py-2 text-lg text-white bg-indigo-500 border-0 rounded focus:outline-none hover:bg-indigo-600">Find Jobs</Link>
